@@ -2,6 +2,10 @@
 
 Este proyecto es un sistema básico para gestionar bibliotecas, libros y miembros, con funcionalidades de préstamos de libros. Incluye control de acceso basado en roles usando Spatie/laravel-permission y está construido con Laravel y Bootstrap 5.
 
+Se puede consultar el proyecto en [https://jikkosoft-prueba-tecnica-main-leg1ml.laravel.cloud](https://jikkosoft-prueba-tecnica-main-leg1ml.laravel.cloud).
+
+Por tiempo no habilité el sistema de autenticación/autorización de usuarios.
+
 Adicionalmente, se incluye la carpeta `docs` con un archivo `Punto1-ER.sql` que contiene la estructura de datos para el problema planteado y un ACL general, si desea ver el modelo Entidad Relación completo tiene a disposición el archivo `Punto1-ER.png`.
 
 El punto dos se encuentra en el archivo `Punto2-Funcion.php` que contiene una función para calcular los indices de los números que sumados den el número objetivo.
